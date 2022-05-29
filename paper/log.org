@@ -1,0 +1,5 @@
+* 2022-05-29: Starting the work towards a paper
+
++ Skimmed this: https://www.cambridge.org/core/journals/journal-of-functional-programming/information/instructions-contributors
++ Downloaded the LaTeX instructions
+
